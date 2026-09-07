@@ -1,5 +1,5 @@
 ### Wall2---Face-Mask-Collector
-##1. User Manual
+##1. User Manual##
 
 #1.1. Required Hardware and Software
 
