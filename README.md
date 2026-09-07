@@ -5,7 +5,7 @@
 
 To begin this user manual, the components needed to build the prototype are listed below:
 
-Mechanical Components:
+#### Mechanical Components:
 
 • 2 MDF boards, 6mm thick, 600 x 440 mm (one for each floor).
 
@@ -31,7 +31,7 @@ Mechanical Components:
 
 • 4 Bearing Mounts
 
-Electrical Components:
+#### Electrical Components:
 
 • ESP32 dev kit
 
@@ -79,7 +79,7 @@ Electrical Components:
 
 • Cable ties
 
-Software, knowledge, and computing tools requirements
+#### Software, knowledge, and computing tools requirements
 
 • Arduino IDE
 
@@ -92,7 +92,7 @@ Software, knowledge, and computing tools requirements
 • Minimum Python libraries: NumPy, Serial, OpenCV, Imutils, Time, SciPy
 • Minimum Arduino Libraries: Simple_MPU6050, Servo.
 
-Other necessary tools
+#### Other necessary tools
 
 • 3D printer.
 
@@ -106,9 +106,9 @@ Other necessary tools
 
 • Hot glue gun.
 
-#1.2. Installation, assembly, and configuration
+### 1.2. Installation, assembly, and configuration
 
-Assembly:
+#### Assembly:
 
 • Cut the MDF wood panels with the laser cutter. The first panel is cut according to the design in the Piso1_v1.dxf file, and the second according to the Piso2_v2.dxf file. These pieces correspond to floors one and two of the prototype.
 
@@ -132,7 +132,7 @@ Assembly:
 
 • Assemble the arm to the chassis.
 
-Connections:
+#### Connections:
 
 • Connect an on/off switch to each battery.
 
@@ -145,7 +145,7 @@ Connections:
 
 • Connect the webcam to the Raspberry Pi via serial communication.
 
-Software Installation:
+#### Software Installation:
 
 • Go to the official Raspberry Pi website to download the operating system.
 
@@ -174,7 +174,7 @@ $ pip 3 install opencv-python
 
 • Connect the Arduino Mega and the ESP32 to the Raspberry Pi using a USB connection.
 
-#1.3. Instructions for use
+### 1.3. Instructions for use
 • Turn on the power switch for the Raspberry Pi and the other controllers.
 
 • Turn on the power switches for the motors and servos.
