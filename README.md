@@ -1,7 +1,7 @@
 # Wall2---Face-Mask-Collector
-# 1. User Manual
+## 1. User Manual
 
-1.1. Required Hardware and Software
+### 1.1. Required Hardware and Software
 
 To begin this user manual, the components needed to build the prototype are listed below:
 
